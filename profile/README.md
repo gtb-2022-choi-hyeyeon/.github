@@ -4,7 +4,7 @@
 
 <img src="https://hyeyeon.bugilabs.com/assets/contact.png" width="300" height="300">
 
-##### Hi, there! I'm hyeyeon, a future thoughtworker
+#### Hi, there! I'm hyeyeon, a future thoughtworker
 
 🔥 I'm living my life by trying new things
 
@@ -19,6 +19,9 @@
 ## Get in touch with me
 
 **_email_** hyeyeah0225@gmail.com
+
 **_Wechat_** hyeyeah25
+
 **_Kakao_** hyeyeah
+
 **_WhatsApp_** 132 9662 3380
