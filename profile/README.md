@@ -4,7 +4,7 @@
 
 <img src="https://hyeyeon.bugilabs.com/assets/contact.png" width="300" height="300">
 
-#### Hi, there! I'm hyeyeon, a future thoughtworker
+#### Hi, there! I'm hyeyeon, a future Thoughtworker
 
 🔥 I'm living my life by trying new things
 
